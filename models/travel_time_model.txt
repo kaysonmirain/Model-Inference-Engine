@@ -1,0 +1,9 @@
+# Portable crowd travel-time model exported by python/train_model.py
+output_scale=1.0
+bias=12.000000
+weight.route_distance_km=95.000000
+weight.route_complexity=22.000000
+weight.crowd_density=70.000000
+weight.closure_active=35.000000
+weight.average_speed_mps=-28.000000
+weight.reroute_pressure=45.000000

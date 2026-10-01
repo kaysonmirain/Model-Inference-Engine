@@ -1,0 +1,7 @@
+build/
+results/*.csv
+data/generated_training.csv
+models/generated_model.txt
+__pycache__/
+.DS_Store
+
